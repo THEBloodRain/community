@@ -5,3 +5,4 @@ https://spring.io/guides/gs/serving-web-content/#scratch
 
 ## 工具
 Redis
+Mysql
